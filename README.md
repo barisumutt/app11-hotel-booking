@@ -1,4 +1,4 @@
-# Project Readme
+# App 11 Hotel Booking
 This project is a hotel reservation system that allows users to book hotels, validate credit cards, and generate reservation tickets. It provides functionalities for booking hotels, booking spa packages, and generating reservation tickets for customers.
 
 ## Prerequisites
